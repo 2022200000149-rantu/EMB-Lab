@@ -6,12 +6,12 @@ Welcome to the repository for **CSE382.8: Introduction to Embedded Systems Lab**
 
 ## 📌 Course & Lab Information
 
-- **Course Code:** CSE382.8[cite: 2]
-- **Course Title:** Introduction to Embedded Systems Lab[cite: 2]
-- **Schedule:** Tuesday, 16:30 – 18:30[cite: 2]
-- **Lab Location:** SEU610[cite: 2]
-- **Instructor:** Md. Nahid Anam Opu[cite: 2]
-- **Contact Email:** md.nahidanamopu@seu.edu.bd[cite: 2]
+- **Course Code:** CSE382.8
+- **Course Title:** Introduction to Embedded Systems Lab
+- **Schedule:** Tuesday, 16:30 – 18:30
+- **Lab Location:** SEU610
+- **Instructor:** Md. Nahid Anam Opu
+- **Contact Email:** md.nahidanamopu@seu.edu.bd
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains C++/Arduino programs, lab notes, and circuit setups dev
 
 - **Hardware & Simulation Platforms:** Physical Arduino microcontrollers (e.g., Arduino Uno) as well as virtual simulation on [Tinkercad](https://www.tinkercad.com/).
 - **Tinkercad Profile:** [Follow/View Designs on Tinkercad](https://www.tinkercad.com/users/dfpWDsdwu7z)
-- **Repository Link:** [EMB-Lab on GitHub](https://github.com/2022200000149-rantu/EMB-Lab)[cite: 1]
+- **Repository Link:** [EMB-Lab on GitHub](https://github.com/2022200000149-rantu/EMB-Lab)
 
 ---
 
